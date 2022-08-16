@@ -1,7 +1,6 @@
-#include <stdio.h>
-// platform layer
+// for graphics
 #include <raylib.h>
-// app
+// assembly program exports
 #include "colors.h"
 
 int main() {
